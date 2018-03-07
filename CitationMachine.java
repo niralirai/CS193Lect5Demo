@@ -1,3 +1,2 @@
 HELLO
-helloooooooooooooo
-ummm
+I Love CS!

@@ -1,4 +1,4 @@
 HELLO
 
-helloooooooooooooo
-ummm
+Welcome to CS193
+
